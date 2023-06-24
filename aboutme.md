@@ -1,10 +1,21 @@
-# About me 
+# **About me** 
 
-## Biography 
-My names is Mohsen Ajalloueian , i am 37 years old , married no kids, living in Germany. 
+## *Small Biography* 
+My name is Mohsen Ajalloueian , i am 37 years old , married , come from Iran and living in Germany. 
 
-## Work experienc
-I have about 10 years work experienc in production of magnetwire. 
+## *Education*
+I graduated from National Aviation University in Ukraine in 2009 with a B.Sc.
 
-## Hobbies
-My hobbies are listening to music , walking in nature , watching movies and surfing in internet. 
+## *Work experience*
+I have about 10 years of experience as a production manager in the field of magnet wire manufacturing.
+
+## *Hobbies*
+My hobbies are  
+* listening to music  
+* walking in nature
+* watching movies
+* surfing in internet
+
+## *Contact*
+[linkedin profile](https://www.linkedin.com/in/mohsen-ajalloueian-b1320064)
+
